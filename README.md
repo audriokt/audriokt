@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm audri, a lazy programmer with a love for web development and machine learning. I enjoy working on open-source projects and am always eager to learn new things.<br>Skills<br>- Programming Languages: Python, JavaScript, Java<br>- Tools: Git<br><br>Projects<br>- IP Calculator: An advanced tool for calculating IP addresses and subnetting.<br>- Villa Ticket Reservations: Algorithm and Programming Project fir Final Project 1st Semestet<br>- Books Katalog: Linear Data Structure Project for Final Project 2nd Semester<br><br>Fun Fact<br>I used to dream of becoming an architect<br><br>Thank you for visiting my profile!<br>
+Hello! I'm audri
 
 
 # 💻 Tech Stack:
